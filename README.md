@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Loan Approval Prediction System 🏦
 
 This project implements a machine learning system to predict bank loan approvals based on applicant information such as income, credit history, and other factors.
@@ -113,3 +114,7 @@ Potential enhancements:
 - [ ] Add more error handling in predict.py
 - [ ] Expand testing coverage
 - [ ] Add model monitoring
+=======
+# Bank-Loan-Approval-System-
+A Machine Learning model that predicts bank loan approval using applicant details
+>>>>>>> 5fb9749948d1a7d813ce3fc1a7cca53421bef45f
