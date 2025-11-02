@@ -1,0 +1,19 @@
+{
+  "Gender": {
+    "Male": 0
+  },
+  "Married": {
+    "No": 0
+  },
+  "Education": {
+    " Graduate": 0,
+    " Not Graduate": 1
+  },
+  "Self_Employed": {
+    " No": 0,
+    " Yes": 1
+  },
+  "Property_Area": {
+    "Urban": 0
+  }
+}

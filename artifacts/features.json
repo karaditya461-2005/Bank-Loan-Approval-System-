@@ -1,0 +1,17 @@
+[
+  " no_of_dependents",
+  "Education",
+  "Self_Employed",
+  "ApplicantIncome",
+  "LoanAmount",
+  "Loan_Amount_Term",
+  "Credit_History",
+  " residential_assets_value",
+  " commercial_assets_value",
+  " luxury_assets_value",
+  " bank_asset_value",
+  "Gender",
+  "Married",
+  "Dependents",
+  "Property_Area"
+]
